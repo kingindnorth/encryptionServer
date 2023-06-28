@@ -1,0 +1,15 @@
+{
+  "name": "encryptiondecryption",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Prajjawal Tiwari",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "express": "^4.18.2"
+  }
+}
